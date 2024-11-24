@@ -29,6 +29,10 @@ This is a Python-based **Tic-Tac-Toe** game with a graphical user interface (GUI
   <img src="img.jpg" alt="Example Input Output" style="width: 500px;">
 </div>
 
+<div align="center">
+  <img src="img2.jpg" alt="Example Input Output" style="width: 500px;">
+</div>
+
 ## How to Run
 
 1. Clone this repository or download the source code:
