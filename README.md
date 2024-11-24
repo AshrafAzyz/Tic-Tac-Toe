@@ -23,6 +23,12 @@ This is a Python-based **Tic-Tac-Toe** game with a graphical user interface (GUI
 - Python 3.10 or later
 - Tkinter library (pre-installed with most Python distributions)
 
+# Example I/O
+
+<div align="center">
+  <img src="img.jpg" alt="Example Input Output" style="width: 500px;">
+</div>
+
 ## How to Run
 
 1. Clone this repository or download the source code:
